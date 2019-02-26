@@ -1,5 +1,5 @@
 # HideNotificationIcon
-Get rid of Notification icons for windows without memory resident.
+Delete Notification icons such as Listary, YYnotes.
 
 With the HideNotificationIcon you can hide tray icon that always boring you, once icons is hidden, 
 the software will automatically exit without taking up memory and cpu.
